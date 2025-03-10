@@ -1,7 +1,6 @@
-![Web Developer](https://i.ibb.co.com/nNkkmkFs/programming.jpg)
-
 ### Hi there 👋, I'm Abdullah Al Mehedi
 #### Web Developer
+![Web Developer](https://i.ibb.co.com/nNkkmkFs/programming.jpg)
 
 Highly motivated Junior Front-End Developer with a strong Foundation in HTML, CSS and JavaScript. Eager to contribute creativity and technical skills to dynamic projects, enhancing user experiences through responsive and visually appealing web interface.
 
@@ -24,5 +23,4 @@ Skills: REACT / JS / HTML / CSS / Tailwind / Node.js / Express.js / MongoDB / Ne
 ![GitHub metrics](https://metrics.lecoq.io/Mehedi86)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi86)  
-
 
