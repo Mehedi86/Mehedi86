@@ -16,9 +16,9 @@ Skills: REACT / JS / HTML / CSS / Tailwind / Node.js / Express.js / MongoDB / Ne
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi86)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi86&show_icons=true&count_private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Mehedi86)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi86)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi86&show_icons=true&count_private=true)  
 
