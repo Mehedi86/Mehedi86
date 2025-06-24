@@ -2,7 +2,7 @@
 #### Web Developer
 Highly motivated Junior Front-End Developer with a strong Foundation in HTML, CSS and JavaScript. Eager to contribute creativity and technical skills to dynamic projects, enhancing user experiences through responsive and visually appealing web interface.
 
-Skills: REACT / JS / HTML / CSS / Tailwind / Node.js / Express.js / MongoDB / Next.js
+Skills: REACT / JS /  Node.js / Express.js / MongoDB / Next.js / HTML / CSS / Tailwind
 
 - 🔭 I’m currently working on Personal Blog Website 
 - 🌱 I’m currently learning JavaScript 
